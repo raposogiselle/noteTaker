@@ -1,0 +1,24 @@
+{
+  "name": "notetaker",
+  "version": "1.0.0",
+  "description": "An app to keep notes organized.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raposogiselle/noteTaker.git"
+  },
+  "author": "G Raposo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raposogiselle/noteTaker/issues"
+  },
+  "homepage": "https://github.com/raposogiselle/noteTaker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  }
+}
