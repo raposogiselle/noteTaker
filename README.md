@@ -11,3 +11,6 @@ Name it, we'll save it, just follow along for quick set up instructions.
 Link to demo:
 https://drive.google.com/file/d/1XhuzMOu0hC2ygGiFMFo26RJT7JTfFPHn/view
 
+<img src="../img/note-taker" alt="Note Taker App"/>
+# Functioning app view
+
