@@ -14,3 +14,4 @@ https://drive.google.com/file/d/1XhuzMOu0hC2ygGiFMFo26RJT7JTfFPHn/view
 <img src="../img/note-taker" alt="Note Taker App"/>
 # Functioning app view
 
+added Heroku automatic deploy
