@@ -15,3 +15,6 @@ https://drive.google.com/file/d/1XhuzMOu0hC2ygGiFMFo26RJT7JTfFPHn/view
 # Functioning app view
 
 added Heroku automatic deploy
+
+Heroku Deploy Link:
+https://notetaker-app-gr.herokuapp.com/
